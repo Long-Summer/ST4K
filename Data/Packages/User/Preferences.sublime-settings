@@ -1,0 +1,32 @@
+{
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"font_face": "ubuntu mono",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"ActionScript",
+		"Alignment",
+		"AngularJS",
+		"AppleScript",
+		"ASP",
+		"AutoPEP8",
+		"Batch File",
+		"C#",
+		"Clojure",
+		"D",
+		"Erlang",
+		"Groovy",
+		"Matlab",
+		"Objective-C",
+		"OCaml",
+		"Pascal",
+		"Perl",
+		"PHP",
+		"R",
+		"Rails",
+		"Ruby",
+		"TCL"
+	],
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true
+}

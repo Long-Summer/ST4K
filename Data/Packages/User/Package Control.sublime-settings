@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AngularJS",
+		"AutoPEP8",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"ColorPicker",
+		"CSScomb",
+		"CTags",
+		"Emmet",
+		"Github Tools",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"jQuery",
+		"JsFormat",
+		"JSHint",
+		"LESS",
+		"Less2Css",
+		"Markdown Preview",
+		"Minifier",
+		"Obsidian Color Scheme",
+		"Package Control",
+		"PlainTasks",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Theme - Cobalt2",
+		"Theme - Nexus",
+		"Web Inspector"
+	]
+}
